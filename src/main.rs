@@ -1,4 +1,8 @@
-#![allow(dead_code)]
+use core::prelude::*;
+use core::option::Option::{Some, None};
+use core::result::Result::{Ok, Err};
+
+
 
 use std::error::Error;
 
