@@ -13,10 +13,6 @@ edition = "2018"
 
 [dependencies]
 
-[[bin]]
-name = "cobs"
-test = false
-
 [lib]
 doctest = false
 test = false
